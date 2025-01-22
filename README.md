@@ -1,3 +1,3 @@
 # Restaurant-Web-Site
 
-![Restaurant Web Sitei](./Mp4.gif)
+![Restaurant Web Sitei](Mp4.gif)
