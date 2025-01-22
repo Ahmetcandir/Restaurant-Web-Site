@@ -12,5 +12,5 @@ HTML,Css ve Javascript kullanıldı
 
 ![Restaurant Web Sitei](https://github.com/Ahmetcandir/Restaurant-Web-Site/blob/main/Restaurant%20Web%20Site%20-%20Opera%202025-01-22%2016-54-20.gif)
 
-<video loop autoplay src="https://github.com/Ahmetcandir/Restaurant-Web-Site/blob/main/Restaurant%20Web%20Site%20-%20Opera%202025-01-22%2016-54-20.gif">
+<video  width="320" height="240" loop autoplay src="https://github.com/Ahmetcandir/Restaurant-Web-Site/blob/main/Restaurant%20Web%20Site%20-%20Opera%202025-01-22%2016-54-20.gif"> hhhh
 </video>
